@@ -410,7 +410,7 @@ padding-bottom: 200px;
     display: flex;
     margin-bottom: 50px;
 }
-.buttons-item:not(:last-child){
+.button-item:not(:last-child){
 margin-right: 8px;
 }
 
@@ -419,7 +419,6 @@ margin-right: 8px;
 
 .filter-button {
     display: block;
-   margin-right: 8px;
     padding: 6px 22px;
     font-family: inherit;
     font-weight: 500;
@@ -458,7 +457,6 @@ margin-right: 8px;
 }
 
 .project-text {
-    margin-bottom: 50px;
     display: block;
     padding: 20px 24px;
     border: 1px solid #EEEEEE;
